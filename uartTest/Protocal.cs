@@ -10,7 +10,7 @@ namespace uartTest
     {
         public void ProtocalSend(byte addr, byte index, byte[] contents, byte len, byte msgID)
         {
-			//test send
+			//test send 123
         }
 
         public void ProtocalRecv(byte[] data, int len)
